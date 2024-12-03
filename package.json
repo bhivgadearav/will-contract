@@ -1,0 +1,8 @@
+{
+    "name": "will-contract",
+    "version": "1.0.0",
+    "description": "A simple will contract written in solidity to put your ETH in a contract and an heir can claim it after a year of inactivity.",
+    "keywords": ["will", "contract", "ethereum", "solidity"],
+    "author": "Arav Bhivgade",
+    "license": "MIT"
+}
